@@ -1,15 +1,2 @@
-edit line
-edit line 3
-edit line 2
-blabla
-bla2
-bla3
-bla4
-bla5
-
-intellij
-intellij2
-intellij3
-intellij4
-intellij5
-intelij6
+commit 1
+commit 2
