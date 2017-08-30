@@ -21,5 +21,3 @@ my commit bla1
 my commit bla2
 new commit
 new commit 2
-commit to revert
-commit to revert 2
