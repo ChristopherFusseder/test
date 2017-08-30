@@ -22,5 +22,6 @@ my commit bla2
 new commit
 new commit 2
 local change 1
+local 2
 some ext change
 ext change 2
